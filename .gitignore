@@ -1,0 +1,14 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# macOS
+.DS_Store
+
+GhibliStudio.xcodeproj/project.xcworkspace/xcuserdata/
+GhibliStudio.xcodeproj/xcuserdata/
+*.xcuserstate
